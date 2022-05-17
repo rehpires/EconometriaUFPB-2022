@@ -5,13 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9adfc586-e5f3-4115-bee9-ec470a01ba7a" name="Changes" comment="updates">
+      <change afterPath="$PROJECT_DIR$/Fracionando.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPCA - %a.m..xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/IPCA - %a.m..xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIB - R$ mi.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIB Ac. 12 meses - R$ mi.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/PIB Ac. 12 meses - R$ mi.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Script.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Script.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,7 +45,9 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="27GKA9PuXqmxC4dvYQ6PG88fxeu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,6 +56,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Jupyter" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
